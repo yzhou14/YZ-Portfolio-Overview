@@ -100,6 +100,7 @@ h4{
 
 .title:hover{
     color: rgba(91, 164, 231, 0.8);
+    font-style: italic;
 }
 
 p{
@@ -108,9 +109,6 @@ p{
     font-family: 'Baloo Bhaijaan 2', cursive;
 }
 
-p:hover{
-    color: rgba(91, 164, 231, 0.8);
-}
 
 
 
