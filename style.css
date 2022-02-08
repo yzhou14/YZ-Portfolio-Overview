@@ -112,6 +112,27 @@ p{
 
 
 
+.icons{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 18%;
+    margin-top: 650px;
+    margin-left: 1165px;
+}
+
+.email{
+    margin-top: 2%;
+}
+
+.resume{
+    margin-top: 1%;
+}
+
+
+
 
 
 
